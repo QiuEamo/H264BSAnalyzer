@@ -1,5 +1,10 @@
 # H264BSAnalyzer -- H.264/AVC H.265/HEVC bitstream analyze tool
 
+[![GitHub stars](https://img.shields.io/github/stars/latelee/H264BSAnalyzer.svg)](https://github.com/latelee/H264BSAnalyzer)[![GitHub forks](https://img.shields.io/github/forks/latelee/H264BSAnalyzer.svg)](https://github.com/latelee/H264BSAnalyzer)
+
+Stargazers over time  
+[![Stargazers over time](https://starcharts.herokuapp.com/latelee/H264BSAnalyzer.svg)](https://starcharts.herokuapp.com/latelee/H264BSAnalyzer)
+
 ## Project
 VS2010 MFC project, using h264bitstream to implement H.264 bitstream analyze.<br>
 The code for H.265 bitstream analyzing is based on h264bitstream code and HM16.6.
@@ -97,7 +102,8 @@ Tanks to [雷霄骅](http://blog.csdn.net/leixiaohua1020) , He's gone, but will las
 ## Author
 CST studio Late Lee<br>
 [CST studio](http://www.latelee.org) <br>
-[Donate the author](http://www.latelee.org/donate)
+Donate the author <br>
+![Donate](https://github.com/latelee/H264BSAnalyzer/blob/master/screenshots/latelee_pay_small.png)
 
 
 # H264BSAnalyzer -- H.264/AVC H.265/HEVC码流分析工具
@@ -197,4 +203,5 @@ H.265保存为AVI格式视频无法播放。注：使用ffmpeg转换，用ffplay也无法正常播放。<br>
 ## 作者
 思堂工作室 李迟<br>
 [迟思堂工作室](http://www.latelee.org) <br>
-[欢迎捐赠支持作者](http://www.latelee.org/donate)
+如果觉得本软件不错，欢迎捐赠支持作者 <br>
+![捐赠](https://github.com/latelee/H264BSAnalyzer/blob/master/screenshots/latelee_pay_small.png)
